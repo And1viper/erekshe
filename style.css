@@ -141,6 +141,10 @@ textarea{
 
 
 /* showcase */
+.main{
+    text-align: center;
+}
+
 .products-showcase{
     background-color: var(--accent-color);
     padding: 1.5em 2em;
